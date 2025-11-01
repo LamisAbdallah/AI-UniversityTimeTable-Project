@@ -1,2 +1,2 @@
 # AI-projects
-AI projects using Python
+AI Time table scduler project using Python
