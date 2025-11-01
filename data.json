@@ -1,0 +1,22 @@
+{
+    "ai": {
+        "lectures": {
+            "hours": 2,
+            "lecturer": "dr amr"
+        },
+        "labs": {
+            "hours": 1,
+            "ta": "ruba"
+        }
+    },
+    "db": {
+        "lectures": {
+            "hours": 2,
+            "lecturer": "dr hala"
+        },
+        "labs": {
+            "hours": 1,
+            "ta": "abdelrhman"
+        }
+    }
+}
